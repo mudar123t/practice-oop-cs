@@ -1,3 +1,20 @@
+"# OOP Lab 4" 
+Full Name: Mudar Shawakh
+Date: 13.03.2026
+Task: 2
+
+## LAB-4: Dependency Isolation using Fake and Stub
+
+**What was isolated and why?**
+The searching mechanism (`IStudentFinder`) was isolated from the core business logic (`StudentService`). The dependency is now passed via Constructor Injection rather than using the `new` keyword inside the service class.
+
+**Why this architecture is beneficial:**
+1. **Independent Development:** Using `FakeStudentFinder` allows UI/Service development to continue even if the real database module is incomplete.
+2. **Controlled Logic Branches:** `StubStudentFinder` allows us to inject exact test states (like `null`) to trigger specific error-handling branches without setting up a real database.
+3. **Runtime Flexibility:** The application can switch implementations at runtime without modifying the business logic.
+
+
+
 "# OOP Lab 3" 
 Full Name: Mudar Shawakh
 Date: 26.02.2026
@@ -16,3 +33,5 @@ The Strategies (SimpleAverageStrategy & DropLowestAverageStrategy): These are tw
 Service (StudentService.cs): This acts like the middleman. It handles adding the grades and printing out the final report using whichever calculation strategy we pass to it.
 
 Program (Program.cs): The main file is super clean now. There is zero business logic in here—it just uses the interfaces to run the app and show off polymorphism in action.
+
+

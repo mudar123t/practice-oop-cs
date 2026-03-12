@@ -1,0 +1,15 @@
+C:\Users\shawa\practice-oop-cs\Lab4.App\bin\Debug\net10.0\Lab4.App.exe
+C:\Users\shawa\practice-oop-cs\Lab4.App\bin\Debug\net10.0\Lab4.App.deps.json
+C:\Users\shawa\practice-oop-cs\Lab4.App\bin\Debug\net10.0\Lab4.App.runtimeconfig.json
+C:\Users\shawa\practice-oop-cs\Lab4.App\bin\Debug\net10.0\Lab4.App.dll
+C:\Users\shawa\practice-oop-cs\Lab4.App\bin\Debug\net10.0\Lab4.App.pdb
+C:\Users\shawa\practice-oop-cs\Lab4.App\obj\Debug\net10.0\Lab4.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawa\practice-oop-cs\Lab4.App\obj\Debug\net10.0\Lab4.App.AssemblyInfoInputs.cache
+C:\Users\shawa\practice-oop-cs\Lab4.App\obj\Debug\net10.0\Lab4.App.AssemblyInfo.cs
+C:\Users\shawa\practice-oop-cs\Lab4.App\obj\Debug\net10.0\Lab4.App.csproj.CoreCompileInputs.cache
+C:\Users\shawa\practice-oop-cs\Lab4.App\obj\Debug\net10.0\Lab4.App.sourcelink.json
+C:\Users\shawa\practice-oop-cs\Lab4.App\obj\Debug\net10.0\Lab4.App.dll
+C:\Users\shawa\practice-oop-cs\Lab4.App\obj\Debug\net10.0\refint\Lab4.App.dll
+C:\Users\shawa\practice-oop-cs\Lab4.App\obj\Debug\net10.0\Lab4.App.pdb
+C:\Users\shawa\practice-oop-cs\Lab4.App\obj\Debug\net10.0\Lab4.App.genruntimeconfig.cache
+C:\Users\shawa\practice-oop-cs\Lab4.App\obj\Debug\net10.0\ref\Lab4.App.dll
