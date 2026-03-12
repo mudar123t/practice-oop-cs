@@ -1,8 +1,8 @@
 using System;
-using Lab2.App.Models;
-using Lab2.App.Strategies;
+using Lab3.App.Models;
+using Lab3.App.Strategies;
 
-namespace Lab2.App.Services
+namespace Lab3.App.Services
 {
     public class StudentService : IStudentService
     {

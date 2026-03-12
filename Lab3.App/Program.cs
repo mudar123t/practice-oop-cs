@@ -1,9 +1,9 @@
 ﻿using System;
-using Lab2.App.Models;
-using Lab2.App.Services;
-using Lab2.App.Strategies;
+using Lab3.App.Models;
+using Lab3.App.Services;
+using Lab3.App.Strategies;
 
-namespace Lab2.App
+namespace Lab3.App
 {
     class Program
     {

@@ -1,6 +1,6 @@
-using Lab2.App.Models;
+using Lab3.App.Models;
 
-namespace Lab2.App.Strategies
+namespace Lab3.App.Strategies
 {
     public interface IAverageStrategy
     {

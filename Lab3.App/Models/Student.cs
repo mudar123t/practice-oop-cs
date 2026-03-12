@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Lab2.App.Models
+namespace Lab3.App.Models
 {
     public class Student
     {
