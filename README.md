@@ -1,3 +1,23 @@
+"# OOP Lab 5" 
+Full Name: Mudar Shawakh
+Date: 13.03.2026
+Task: 2
+
+
+## LAB-5: Interface Patterns in Practice (Variant 2)
+
+**Pattern Implemented:** Strategy Pattern
+**Domain:** Average Calculation
+
+**Explanation:**
+The Strategy pattern was implemented to abstract the algorithm used to calculate a student's average grade. The `IStudentService` relies on the `IAverageStrategy` interface rather than a concrete calculation method.
+
+**Why this architecture is beneficial:**
+1. **Open/Closed Principle:** We can add new calculation methods (like `WeightedAverageStrategy` or `MedianAverageStrategy`) without modifying the `StudentService` class.
+2. **Clean Constructor Injection:** The calculation strategy is passed into `StudentService` via its constructor, removing all business logic and instantiation from the service layer.
+3. **Runtime Switching:** The system can dynamically change how averages are calculated at runtime based on user input or configuration, entirely decoupling the "WHAT" from the "HOW".
+
+
 "# OOP Lab 4" 
 Full Name: Mudar Shawakh
 Date: 13.03.2026
